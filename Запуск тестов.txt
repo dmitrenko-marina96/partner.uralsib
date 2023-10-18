@@ -19,3 +19,9 @@ npx nightwatch -t test/pomoshPos.js
 npx nightwatch -t test/pomoshNeg.js
 
 npx nightwatch -t test/sertifikat.js
+
+npx nightwatch -t test/zayavkiForm.js
+
+npx nightwatch -t test/zayavkaAddPos.js
+
+npx nightwatch -t test/zayavkaAddNeg.js
