@@ -29,3 +29,5 @@ npx nightwatch -t test/zayavkaAddNeg.js
 npx nightwatch -t test/nalogPos.js
 
 npx nightwatch -t test/nalogNeg.js
+
+npx nightwatch -t test/registerPovtor.js
